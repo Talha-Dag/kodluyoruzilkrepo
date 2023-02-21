@@ -4,7 +4,8 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.[Patika.dev linkim](https://app.patika.dev/talhadag)
 
-![github](kodluyoruz.png)
+![kodluyoruz](https://user-images.githubusercontent.com/123738520/220450863-459e314f-f51b-4444-9d40-80c856665a5a.png)
+
 
 ## Installation
 
